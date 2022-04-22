@@ -1,0 +1,74 @@
+1.<!doctype html>
+<html>
+<head>
+     <title></title>
+      </head>
+	  <body>
+	  
+</body>
+
+</html>
+
+2. Attribute is a piece of markup language used to adjust the behavior or display of an HTML element. 
+Example: attributes can be used to change the color, size, or functionality of HTML elements. Attributes are used by including them in an opening
+HTML tag: <tag_name attribute_name="value">Content</tag_name>
+
+
+
+3.<img src="roll_sroyce.jpg" alt=" it is a car brand" width="200" height="300">
+
+
+4.Alternatively referred to as a link and web link, a hyperlink is an icon, graphic, 
+or text that links to another file or object. 
+Syntax: <a href="url">link
+
+5.<table>
+<tr></tr>
+<th></th>
+<td><?td>
+<caption></caption>
+<colgroup></colgroup>
+<col>
+<tbody>
+</table>
+
+
+
+
+
+1. Types of CSS
+Inline CSS   
+Syntax:<htmltag style="cssproperty1:value; cssproperty2:value;"> </htmltag>
+Internal or Embedded 
+Syntax:<head> section of an HTML page, within a <style> element
+External CSS   
+Syntax:
+
+
+2.
+Simple selector
+Combinator selector
+Pseudo-Class selector
+Attribute selector
+
+
+
+3 Syntax:
+.div {
+  width: size;
+  border: color;
+  padding: size;
+  margin: size;
+}
+
+Example:div {
+  width: 200px;
+  border: 20px orange;
+  padding: 30px;
+  margin: 25px;
+}
+
+
+
+
+

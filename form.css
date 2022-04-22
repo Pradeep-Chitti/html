@@ -1,0 +1,17 @@
+body{
+    background-image: url("423122.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.table{
+    height: 300px;
+    width: 300px;
+    border: cornflowerblue;
+    margin-left: 600px;
+    margin-top: 200px;
+    background-color:rgb(226, 219, 205);
+    padding: 30px;
+    text-align: center;
+}
